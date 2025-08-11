@@ -1,6 +1,6 @@
-# SalesSavvy
+# Quantive
 
-SalesSavvy is a full-stack sales management platform designed to streamline customer interactions, track sales performance, and provide insightful analytics for business growth.
+Quantive is a full-stack sales management platform designed to streamline customer interactions, track sales performance, and provide insightful analytics for business growth.
 
 ---
 
@@ -39,7 +39,7 @@ MindMap
 
 ```mermaid 
 mindmap
-  root((SalesSavy))
+  root((Quantive))
     🌐 Admin
       🧑‍💼 User Management
         Create/Edit/Deactivate Users
@@ -122,7 +122,7 @@ mindmap
 
 ```bash
 # Clone the repository
-https://github.com/Khyaded-Ambika/SalesSavy
+https://github.com/Khyaded-Ambika/Quantive
 
 # Navigate to backend directory
 cd backend
