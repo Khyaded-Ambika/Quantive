@@ -7,7 +7,7 @@ SalesSavvy is a full-stack sales management platform designed to streamline cust
 ## 🚀 Tech Stack
 
 **Frontend:** React.js  
-**Backend:** Java Spring Boot (Core Business Logic), Node.js (Real-time / Auxiliary Services)  
+**Backend:** Java Spring Boot (Core Business Logic), Node.js
 **Database:** MySQL  
 **Build Tool:** Maven  
 **Version Control:** Git & GitHub
